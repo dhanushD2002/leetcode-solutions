@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dhanushD2002/leetcode-solutions/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
